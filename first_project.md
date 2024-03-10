@@ -24,6 +24,7 @@ resource "github_repository" "example" {
 
 }
 Initialize and Apply:
+
 terraform init
 terraform plan
 terraform apply
